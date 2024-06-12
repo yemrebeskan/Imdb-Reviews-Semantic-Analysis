@@ -4,22 +4,9 @@ This study aims to classify movie reviews from the IMDB dataset into 'positive' 
 - Task: Text-classification of movie reviews
 - Dataset: stanfordnlp/imdb
 
-- BERT:
- -- Libraries: TensorFlow, Transformers
- - Pre-Trained Model: Bert Base Uncased
- - Optimizer: Adam
- - Loss Function: Binary Cross Entropy
- - Metrics: Binary Accuracy
- - Epochs: 10
- - Batch Size: 8
- - Tokenizer: Transformers Bert Tokenizer
-- LSTM:
- - Architecture: Embedding, LSTM layer, Dropout, dense layer.
- - Optimizer: Adam
- - Loss Function: Binary Cross Entropy
- - Metrics: Binary Accuracy
- - Epochs: 10
- - Batch Size: 32
- - Tokenizer: Tokenizer from keras
+  ![image](https://github.com/yemrebeskan/Imdb-Reviews-Semantic-Analysis/assets/73002131/8f7b17a6-aaf1-4c95-bc0a-84a92ca992c6)
+
+
+
 
 
