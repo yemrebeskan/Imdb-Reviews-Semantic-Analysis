@@ -5,7 +5,7 @@ This study aims to classify movie reviews from the IMDB dataset into 'positive' 
 - Dataset: stanfordnlp/imdb
 
 - BERT:
- - Libraries: TensorFlow, Transformers
+ -- Libraries: TensorFlow, Transformers
  - Pre-Trained Model: Bert Base Uncased
  - Optimizer: Adam
  - Loss Function: Binary Cross Entropy
