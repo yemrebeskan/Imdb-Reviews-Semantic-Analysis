@@ -1,6 +1,8 @@
 # Imdb Reviews Semantic Analysis
 IMDB Reviews Semantic Analysis 
 This study aims to classify movie reviews from the IMDB dataset into 'positive' or 'negative' sentiments using two machine learning models: BERT and LSTM. We will evaluate which model more effectively determines sentiments expressed in textual data.
+
+# Experiments and Results
 - Task: Text-classification of movie reviews
 - Dataset: stanfordnlp/imdb
 
